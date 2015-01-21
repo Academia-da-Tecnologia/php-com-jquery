@@ -1,0 +1,39 @@
+*{margin:0;padding:0;}
+#container{margin: 0 auto;font-family: 'Anaheim';}
+#container #conteudo{width:800px;margin:0 auto;margin-top:20px;font-size:18px;}
+#container #rodape{width:800px;margin:0 auto;clear:both;text-align:center;font-size:18px;margin-top:20px;}
+.fix{clear: both;}
+#tb_alunos_classe{width: 100%;}
+tfoot a{padding: 0 2px;color: #df8505;}
+#paginacao .current{padding: 0 2px;}
+#paginacao .prev{padding: 0 5px;}
+#paginacao .next{padding: 0 5px;}
+
+ul{list-style: none;}
+ul li a{text-decoration: none;color: #000}
+
+#paginacao_mensagens_particulares .current{padding: 0 2px;}
+#paginacao_mensagens_particulares .prev{padding: 0 5px;}
+#paginacao_mensagens_particulares .next{padding: 0 5px;}
+
+#paginacao_mensagens_publicas .current{padding: 0 2px;}
+#paginacao_mensagens_publicas .prev{padding: 0 5px;}
+#paginacao_mensagens_publicas .next{padding: 0 5px;}
+
+#enviar #paginacao_alunos{font-size: 16px;}
+#enviar #paginacao_alunos .current{padding: 0 2px;}
+#enviar #paginacao_alunos .prev{padding: 0 5px;}
+#enviar #paginacao_alunos .next{padding: 0 5px;}
+#enviar #paginacao_alunos a{padding: 0 5px;padding: 0 2px;color: #df8505;}
+
+#mensagem_enviada{overflow: hidden;margin-top: 10px;}
+
+#opcoes_mensagens{
+    background-color: #df8505;color: #FFF;padding:5px;
+    border-radius: 5px;
+}
+
+#mensagens_particulares{width: 100%;margin-top: 20px;}
+
+#navegar_tabs{margin-top: 20px;}
+#tipo_mensagem_escolhida{margin-top: 20px;}

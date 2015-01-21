@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0
+}
+
+#container{
+    font-family:'Anaheim';
+    width:800px;
+    margin:0 auto;
+}
+
+h2{
+    background-color: #900;
+    color: #FFF;
+}
+
+#texto{
+    background-color: #000;
+    color: #FFF;
+}
+
+.bt{background-color: cornflowerblue;padding: 5px;border: solid 1px cornflowerblue;color: #FFF;margin-top: 5px;}
+
+#mensagem{font-size: 18px;margin-top: 10px;}
+
+span{
+    color: #900;
+    font-weight: bold;
+}
+#mostra_texto{
+    width: 300px;
+    position: relative;
+}
+
+.selected{
+    background-color: #900;
+}
+
+label{display: block;}
